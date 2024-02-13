@@ -1,0 +1,13 @@
+body, html {
+    height: 130%;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden; 
+    overflow-x: hidden;
+}
+img {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
